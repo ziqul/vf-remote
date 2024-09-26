@@ -16,7 +16,7 @@
   "author": "Maxim Sorokin (m.s.v.00a@gmail.com)",
   "license": "Apache-2.0",
   "devDependencies": {
-    "rollup": "^0.62.0",
+    "rollup": "^2.79.2",
     "uglify-js": "^3.4.5"
   }
 }
